@@ -1,0 +1,15 @@
+Datasets (Excel CSV) 
+
+PS_overview: masterfile - data on sample of CPS (K-12) 
+- 662 rows; 91 columns 
+- school name (short & long); school type (ie: charter, neighborhood); primary category (ES = elementry school; HS = high school) 
+
+
+
+PS_race: detail on racial breakdown of students 
+-660 rows; 10 columns 
+-school name, total count of students based on race (white, black, asian, native, hispanic)
+-integer counts except for network & school name (char) 
+- unique ident: School ID 
+- data date span: 20th Day 2018-2019 
+
