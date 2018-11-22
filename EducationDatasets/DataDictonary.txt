@@ -13,3 +13,18 @@ PS_race: detail on racial breakdown of students
 - unique ident: School ID 
 - data date span: 20th Day 2018-2019 
 
+
+Performance Indicators: data on academic success of individual schools and district 
+Performance_ES_2017-18 
+- 476 rows; 24 columns 
+- school name, network (charter, contract), Accountability Status (Not Applicable, Good Standing, Intensive Support), reading, math, ranked scores 
+- unique ident: School ID  
+
+
+Webscrape: 
+http://www.city-data.com/city/Chicago-Illinois.html
+
+
+
+Goal: clean 5 good datasets 
+- Focus on School Performance 
