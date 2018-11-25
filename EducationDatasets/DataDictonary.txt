@@ -33,3 +33,11 @@ Goal: clean 5 good datasets
 OpenRefine: Clustering issue 
 -try to cluster ES Network - Pershing
 using python replace() function, customize cluster 
+
+
+
+Used Datasets 
+--> clean file 
+1) AllSchoolPerformance_SY2015-2016.csv 
+Key Columns: Zip, School_ID, Name (Short & long), Primary_Category (ES, HS, MS), Address, Phone, Fax, Student_Growth_Rating, Student_Attainment_Description (how well school performed on standardized tests): Attainment_Reading_Pct_ES, Attainment_Reading_Lbl_ES, Attainment_Math_Pct_ES, Attainment_Math_Lbl_ES, Culture_Climate_Rating (NOT ENOUGH DATA, ORGANIZED, PARTIALLY ORGANIZED, WELL ORGANIZED) 
+
