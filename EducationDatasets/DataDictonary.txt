@@ -28,3 +28,8 @@ http://www.city-data.com/city/Chicago-Illinois.html
 
 Goal: clean 5 good datasets 
 - Focus on School Performance 
+
+
+OpenRefine: Clustering issue 
+-try to cluster ES Network - Pershing
+using python replace() function, customize cluster 
