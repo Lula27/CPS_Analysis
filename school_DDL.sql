@@ -27,8 +27,33 @@ USE `chicago`;
 CREATE TABLE IF NOT EXISTS `chicago`.`elementry`( 
 	`Zipcode` MEDIUMINT(5) ZEROFILL NOT NULL,  
     `SchoolID` MEDIUMINT(6) ZEROFILL NOT NULL, 
-    `SchoolName` VARCHAR(45) NOT NULL, 
-    `STATE` CHAR(2) NOT NULL, 
+    `SchoolName` VARCHAR(50) NOT NULL, 
     `Probation` ENUM('No', 'Yes'), 
     `ProbationYears` TINYINT(2), 
+    `AvgDaysSuspension` DECIMAL(2,1), 
+    `HealthySchoolCertified` ENUM('No', 'Pending', 'Yes'), 
+    `Latitude` DECIMAL(6,4), 
+    `Longitude` DECIMAL(7,5), 
+    PRIMARY KEY(`Zipcode`, `SchoolID`)) 
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+CREATE TABLE IF NOT EXISTS `chicago`.`high`(
+	`Zipcode` MEDIUMINT(5) ZEROFILL NOT NULL,  
+    `SchoolID` MEDIUMINT(6) ZEROFILL NOT NULL, 
+    `SchoolName` VARCHAR(50) NOT NULL, 
+	`HealthySchoolCertified` ENUM('No', 'Pending', 'Yes'), 
+	`4-YearGraduationRatePercentage_2013` DECIMAL(3,1), 
+    `CollegeEnrollmentRatePercentage_2013` DECIMAL(3,1),
+	`SuspensionsPer100_2013` DECIMAL(4,1),
+	`AvgDaysSuspension` DECIMAL(3,1), 
+    `Latitude` DECIMAL(6,4), 
+    `Longitude` DECIMAL(7,5), 
+	PRIMARY KEY(`Zipcode`, `SchoolID`)) 
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = latin1;
+
+
+
     
