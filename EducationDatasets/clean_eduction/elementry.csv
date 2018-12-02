@@ -1,0 +1,461 @@
+Zipcode,SchoolID,SchoolName,Probation,ProbationYears,AvgDaysSuspension,HealthySchoolCertified,Latitude,Longitude
+60617,609772,Jane Addams Elementary School,No,0,3.4,No,-87.53301251,41.69871497
+60657,609773,Louis A Agassiz Elementary School,No,0,1.9,Pending,-87.65619167,41.93412004
+60614,609774,Louisa May Alcott Elementary School,No,0,1.7,No,-87.64633949,41.92984626
+60636,609775,John P Altgeld Elementary School,Yes,3,2.7,No,-87.6582125,41.76510322
+60608,609777,Phillip D Armour Elementary School,No,0,3.9,Yes,-87.65061898,41.8338821
+60645,609779,George Armstrong International Studies ES,No,0,2,Pending,-87.68446868,42.01017628
+60647,609780,Ames Middle School,No,0,3.5,No,-87.72177945,41.91605519
+60609,609781,Crispus Attucks Elementary School,Yes,8,3.7,No,-87.6257474,41.80214349
+60618,609782,John J Audubon Elementary School,No,0,1.3,No,-87.68107885,41.94509808
+60619,609786,Avalon Park Elementary School,Yes,1,3,Pending,-87.59161761,41.74826636
+60643,609788,Alice L Barnard Computer Math & Science Ctr ES,Yes,1,1.6,No,-87.65811642,41.70514024
+60641,609789,John Barry Elementary School,No,0,2.5,No,-87.73942514,41.93251118
+60620,609790,Clara Barton Elementary School,Yes,6,2.1,No,-87.67096453,41.75421962
+60621,609791,Perkins Bass Elementary School,Yes,17,2.6,No,-87.65354234,41.77427377
+60618,609792,Newton Bateman Elementary School,No,0,,Pending,-87.70218806,41.95823045
+60621,609793,Nicholson Technology Academy,No,0,4.7,No,-87.64748868,41.7849277
+60625,609794,Thomas A Edison Regional Gifted Center ES,No,0,,No,-87.70962725,41.9711433
+60644,609795,George Rogers Clark Elementary School,No,0,1.8,No,-87.77038158,41.8678323
+60630,609796,Jean Baptiste Beaubien Elementary School,No,0,1.1,No,-87.75752776,41.97237914
+60612,609797,Jacob Beidler Elementary School,Yes,1,,No,-87.70581859,41.88529401
+60641,609798,Hiram H Belding Elementary School,No,0,2,Pending,-87.73398223,41.95890499
+60618,609799,Alexander Graham Bell Elementary School,No,0,1.3,No,-87.68605496,41.94952795
+60628,609800,Frank I Bennett Elementary School,Yes,4,2,No,-87.61735342,41.71041656
+60613,609803,James G Blaine Elementary School,No,0,3.4,No,-87.66495825,41.95080812
+60645,609804,Daniel Boone Elementary School,No,0,2.2,Pending,-87.69750011,42.00343519
+60620,609805,Scott Joplin Elementary School,Yes,4,2.1,No,-87.66932903,41.74934082
+60649,609806,Myra Bradwell Communications Arts & Sciences ES,Yes,6,2.2,Yes,-87.55717881,41.7543734
+60652,609807,Lionel Hampton Fine & Performing Arts ES,No,0,2,No,-87.70875287,41.75348432
+60628,609808,Alex Haley Elementary Academy,No,0,4.8,No,-87.63359476,41.68663682
+60647,609809,Lorenz Brentano Math & Science Academy ES,Yes,1,2.3,Pending,-87.69625758,41.93097047
+60634,609810,Norman A Bridge Elementary School,No,0,1.5,No,-87.79870722,41.94915063
+60617,609811,Orville T Bright Elementary School,Yes,4,3,No,-87.56212104,41.69973969
+60612,609812,William H Brown Elementary School,Yes,6,1.8,No,-87.67071879,41.88298698
+60637,609813,Charles S Brownell Elementary School,Yes,1,2.2,No,-87.62170972,41.77163474
+60649,609815,Edward A Bouchet Math & Science Academy ES,Yes,10,2.4,No,-87.57603849,41.76086093
+60625,609817,Lyman A Budlong Elementary School,No,0,2.2,No,-87.69660443,41.97572652
+60639,609818,Luther Burbank Elementary School,No,0,3.4,Pending,-87.78266267,41.91759334
+60615,609819,Edmond Burke Elementary School,Yes,6,2.6,No,-87.61617809,41.79679285
+60657,609820,Augustus H Burley Elementary School,No,0,,No,-87.66985204,41.93796493
+60617,609821,Burnham Elementary Inclusive Academy,No,0,1.3,Pending,-87.57759489,41.72050221
+60623,609826,Rosario Castellanos Elementary School,No,0,4.4,No,-87.71496352,41.84544296
+60619,609827,Burnside Elementary Scholastic Academy,No,0,2.2,No,-87.60747108,41.72850759
+60622,609828,Jonathan Burr Elementary School,No,0,1.5,Yes,-87.66864691,41.91233061
+60632,609829,John C Burroughs Elementary School,No,0,,Yes,-87.69249318,41.8288631
+60651,609830,Milton Brunson Math & Science Specialty ES,Yes,10,2.4,No,-87.76564297,41.89767761
+60638,609832,Michael M Byrne Elementary School,No,0,1.7,No,-87.79150778,41.79503029
+60617,609833,Charles P Caldwell Academy of Math & Science ES,Yes,5,3.1,No,-87.58076569,41.73922735
+60623,609834,Little Village Elementary School,No,0,3.3,No,-87.71735516,41.84368588
+60609,609885,Dewey Elementary Academy of Fine Arts,Yes,5,2.6,No,-87.642615,41.7956493
+60651,609835,Daniel R Cameron Elementary School,Yes,6,2.2,No,-87.71796315,41.90378521
+60634,609836,Arthur E Canty Elementary School,No,0,3.5,No,-87.8293319,41.94799245
+60637,609837,Andrew Carnegie Elementary School,Yes,2,3.5,No,-87.59079649,41.78339577
+60652,609839,Carroll-Rosenwald Specialty Elementary School,No,0,2.1,No,-87.696003,41.74248931
+60629,609842,Rachel Carson Elementary School,No,0,3.1,No,-87.68783576,41.79325514
+60637,609844,William W Carter Elementary School,Yes,6,3.5,No,-87.62248974,41.78984129
+60827,609845,George Washington Carver Primary School,Yes,5,4.1,No,-87.59952683,41.65367428
+60827,609848,Ira F Aldridge Elementary School,Yes,6,3.3,No,-87.60649623,41.65743243
+60655,609849,George F Cassell Elementary School,No,0,2.3,No,-87.70325179,41.68733881
+60637,610213,James Wadsworth Elementary School,Yes,6,1.7,No,-87.59815597,41.77812652
+60613,609850,Horace Greeley Elementary School,No,0,2.8,No,-87.65097549,41.95283701
+60608,609851,Thomas Chalmers Specialty Elementary School,Yes,6,,Yes,-87.69526079,41.8664078
+60625,609852,Eliza Chappell Elementary School,No,0,4,Pending,-87.68325438,41.975867
+60647,609853,Salmon P Chase Elementary School,No,0,2.3,Pending,-87.69454144,41.91801539
+60622,609854,Frederic Chopin Elementary School,No,0,,Yes,-87.68890154,41.89674048
+60632,609855,Walter S Christopher Elementary School,No,0,1,No,-87.68564411,41.8016744
+60633,609856,Henry Clay Elementary School,Yes,1,4.6,No,-87.544577,41.65455937
+60618,609857,Grover Cleveland Elementary School,No,0,2.6,No,-87.70642927,41.9520147
+60659,609859,DeWitt Clinton Elementary School,No,0,2.1,No,-87.69839748,41.99256421
+60623,610215,Francisco I Madero Middle School,No,0,3.7,Yes,-87.70508585,41.84098398
+60643,609861,Henry R Clissold Elementary School,No,0,1.5,No,-87.6808619,41.69305404
+60617,609862,Edward Coles Elementary Language Academy,No,0,2.8,No,-87.56593332,41.74142687
+60622,609863,Christopher Columbus Elementary School,No,0,2.8,No,-87.68190167,41.89958139
+60620,609864,John W Cook Elementary School,No,0,2.2,No,-87.6598119,41.74526284
+60626,609865,Jordan Elementary Community School,No,0,2.4,No,-87.67779928,42.01709536
+60618,609866,John C Coonley Elementary School,No,0,,Yes,-87.68380195,41.95554905
+60608,609867,Peter Cooper Elementary Dual Language Academy,No,0,1.2,No,-87.66724753,41.85605839
+60636,609869,Anna R. Langford Community Academy,Yes,13,1.5,No,-87.6572053,41.78465652
+60623,609870,Daniel J Corkery Elementary School,Yes,1,4.9,No,-87.73122946,41.84559878
+60608,609872,Manuel Perez Elementary School,No,0,3,Yes,-87.6579887,41.85600113
+60623,609873,Crown Community Academy of Fine Arts Center ES,Yes,9,1.9,No,-87.7125068,41.85266155
+60656,609874,Everett McKinley Dirksen Elementary School,No,0,1.7,No,-87.84105162,41.97368728
+60647,609875,Charles R Darwin Elementary School,Yes,1,2.1,Yes,-87.70543099,41.92334998
+60632,609876,Nathan S Davis Elementary School,No,0,1.6,Yes,-87.70022859,41.8218786
+60652,609879,Charles Gates Dawes Elementary School,Yes,1,2.6,No,-87.71738613,41.74510467
+60645,609880,Stephen Decatur Classical Elementary School,No,0,,No,-87.70465502,42.00930696
+60624,609881,Edward C Delano Elementary School,No,0,2.8,No,-87.72464875,41.87877166
+60619,609883,Charles S Deneen Elementary School,Yes,6,2.8,No,-87.62338156,41.76250359
+60634,609884,William E Dever Elementary School,No,0,1.3,No,-87.813168,41.94254335
+60619,609887,Arthur Dixon Elementary School,No,0,3.2,No,-87.61001515,41.74365776
+60612,609888,Mary Mapes Dodge Elementary Renaissance Academy,No,0,2.5,No,-87.6930162,41.88282068
+60616,609891,James R Doolittle Jr Elementary School,Yes,9,2.2,No,-87.61291629,41.8310921
+60638,609893,John C Dore Elementary School,No,0,2.1,No,-87.78764009,41.78092716
+60616,609894,John B Drake Elementary School,Yes,4,1.9,Yes,-87.61776768,41.84379445
+60620,609895,Turner-Drew Elementary Language Academy,No,0,1.5,No,-87.6302048,41.72560849
+60622,609896,Thomas Drummond Elementary School,No,0,,No,-87.67449563,41.91588634
+60636,609897,Charles W Earle Elementary School,Yes,10,4.8,Yes,-87.66777712,41.78230211
+60629,609898,John F Eberhart Elementary School,Yes,4,3,No,-87.70800189,41.7744471
+60641,609910,Laughlin Falconer Elementary School,No,0,1.6,No,-87.74936705,41.93577597
+60631,609899,Christian Ebinger Elementary School,No,0,1.8,No,-87.81116435,42.00443557
+60628,609900,George W Curtis Elementary School,Yes,6,4.3,No,-87.62166148,41.68544575
+60646,609901,Edgebrook Elementary School,No,0,,No,-87.7618211,41.99946016
+60628,609902,Ralph H Metcalfe Elementary Community Academy,Yes,2,2.3,No,-87.63426928,41.6694559
+60632,609903,Richard Edwards Elementary School,No,0,2,No,-87.72581893,41.80552325
+60644,609904,Edward K Ellington Elementary School,No,0,3.3,No,-87.76655157,41.885506
+60644,609906,Robert Emmet Elementary School,Yes,1,2.4,No,-87.76327497,41.88037642
+60624,609907,Leif Ericson Elementary Scholastic Academy,Yes,5,2.5,No,-87.71584573,41.87576191
+60643,609908,Esmond Elementary School,No,0,1.9,No,-87.66916143,41.68939069
+60608,609909,Edward Everett Elementary School,Yes,1,,Yes,-87.68127322,41.83154196
+60630,609912,James B Farnsworth Elementary School,No,0,1.5,Pending,-87.76610809,41.9798092
+60636,609913,Elaine O Goodlow Elementary Magnet School,Yes,6,1.2,No,-87.67555599,41.78125258
+60637,609916,Enrico Fermi Elementary School,Yes,6,2,No,-87.59039017,41.76772772
+60628,609917,Fernwood Elementary School,Yes,3,2.7,No,-87.6403774,41.71119799
+60626,609918,Eugene Field Elementary School,No,0,1.8,No,-87.66994862,42.00966462
+60637,609919,John Fiske Elementary School,Yes,5,2.5,No,-87.60259685,41.78290934
+60623,609920,Gerald Delgado Kanoon Elementary Magnet School,Yes,2,4.1,No,-87.70507547,41.85077575
+60623,609921,Telpochcalli Elementary School,Yes,2,,No,-87.6966316,41.84797834
+60639,609922,Belmont-Cragin Elementary School,Yes,1,1.8,Pending,-87.76984337,41.92559567
+60620,609924,Fort Dearborn Elementary School,Yes,1,3.4,No,-87.65544435,41.72966698
+60612,609925,Joseph Kellman Corporate Community ES,No,0,1.3,Pending,-87.70078311,41.87119309
+60610,609926,Franklin Elementary Fine Arts Center,No,0,2.1,No,-87.6355136,41.90657253
+60620,609927,Foster Park Elementary School,Yes,5,2.2,Pending,-87.66813597,41.7384262
+60653,609928,Melville W Fuller Elementary School,Yes,6,2.8,No,-87.61182077,41.8180061
+60609,609929,Robert Fulton Elementary School,Yes,10,2.2,Pending,-87.66847093,41.79754288
+60647,609930,Frederick Funston Elementary School,Yes,4,2.6,No,-87.71692852,41.91762127
+60628,609932,Jesse Owens Elementary Community Academy,Yes,1,1.8,No,-87.62242272,41.66737294
+60626,609933,Stephen F Gale Elementary Community Academy,Yes,4,2,Yes,-87.67196481,42.02106425
+60617,609935,Matthew Gallistel Elementary Language Academy,No,0,2.9,No,-87.53513861,41.70682232
+60656,609937,John W Garvy Elementary School,No,0,2,No,-87.79619832,41.97635262
+60623,609938,Joseph E Gary Elementary School,No,0,2.3,Pending,-87.71870452,41.83709246
+60619,609939,Frank L Gillespie Elementary School,No,0,4.3,No,-87.62368165,41.72529635
+60636,609941,Asa Philip Randolph Elementary School,Yes,6,1.6,No,-87.67600175,41.76059741
+60647,609942,Johann W von Goethe Elementary School,No,0,5.8,No,-87.69293637,41.9228282
+60628,609943,Samuel Gompers Fine Arts Options ES,Yes,1,2.7,No,-87.62258098,41.67058298
+60633,609944,Virgil Grissom Elementary School,No,0,,No,-87.55334334,41.66245712
+60640,609945,William C Goudy Elementary School,No,0,2.3,No,-87.65794915,41.97581137
+60609,609947,Alexander Graham Elementary School,Yes,1,2,No,-87.64338051,41.81329195
+60641,609949,William P Gray Elementary School,No,0,2,No,-87.75715297,41.94878107
+60653,609951,Ariel Elementary Community Academy,Yes,1,4.4,No,-87.5985003,41.81133445
+60609,609952,Nathanael Greene Elementary School,No,0,4,Yes,-87.67145551,41.82966356
+60624,609954,John Milton Gregory Elementary School,No,0,3.1,Yes,-87.71867323,41.87071468
+60620,609955,Walter Q Gresham Elementary School,Yes,5,2.2,No,-87.64506169,41.73891334
+60638,609956,Robert L Grimes Elementary School,No,0,1.7,No,-87.75876919,41.77549238
+60632,609958,Frank W Gunsaulus Elementary Scholastic Academy,No,0,1.6,No,-87.69940042,41.81299531
+60616,609959,John Charles Haines Elementary School,No,0,,Yes,-87.63378596,41.84993116
+60638,609960,Nathan Hale Elementary School,No,0,1.5,No,-87.77661589,41.78020486
+60617,609961,Ninos Heroes Elementary Academic Center,No,0,2.8,No,-87.55189813,41.74374969
+60657,609963,Alexander Hamilton Elementary School,No,0,1,Pending,-87.67085683,41.94524725
+60609,609964,John H Hamline Elementary School,Yes,1,1.9,No,-87.66113856,41.80726347
+60623,609966,Charles G Hammond Elementary School,Yes,1,1.6,Yes,-87.69627777,41.85269133
+60608,609967,William F Finkl Elementary School,No,0,3,No,-87.68570412,41.84919885
+60647,609968,Sharon Christa McAuliffe Elementary School,Yes,2,1.9,Yes,-87.72389409,41.91480732
+60637,609969,Bret Harte Elementary School,No,0,1.8,No,-87.58686328,41.7934746
+60620,609971,John Harvard Elementary School of Excellence,Yes,11,6.2,No,-87.63270008,41.75733472
+60625,609972,Helge A Haugan Elementary School,No,0,1.5,No,-87.72316496,41.96403525
+60623,609973,Emiliano Zapata Elementary Academy,No,0,3.3,No,-87.73434997,41.84139181
+60636,609986,Charles R Henderson Elementary School,Yes,6,2.1,No,-87.67192466,41.79061716
+60657,609974,Hawthorne Elementary Scholastic Academy,No,0,7,Yes,-87.65767253,41.94228994
+60651,609975,John Hay Elementary Community Academy,Yes,6,1.7,No,-87.75585034,41.89918473
+60660,609976,Stephen K Hayt Elementary School,No,0,2.3,No,-87.6685227,41.99456814
+60637,609977,Woodlawn Community Elementary School,No,0,1.6,No,-87.59435584,41.77339962
+60628,609978,Wendell Smith Elementary School,Yes,6,1.6,Yes,-87.60468711,41.70758462
+60616,609979,Robert Healy Elementary School,No,0,1.6,Pending,-87.64037683,41.83957045
+60638,609981,Phobe Apperson Hearst Elementary School,Yes,6,2.1,No,-87.74576315,41.80818821
+60609,609983,James Hedges Elementary School,No,0,2.5,No,-87.67329121,41.80713406
+60624,609985,Helen M Hefferan Elementary School,No,0,3.7,No,-87.73583687,41.87863685
+60609,609987,Thomas A Hendricks Elementary Community Academy,Yes,6,2.9,No,-87.63370133,41.81579314
+60618,609988,Patrick Henry Elementary School,No,0,2.6,Yes,-87.71566829,41.95896179
+60612,609989,Victor Herbert Elementary School,Yes,1,2,No,-87.68031236,41.87984242
+60605,609990,South Loop Elementary School,No,0,1.9,Yes,-87.62865124,41.86685634
+60623,609991,Theodore Herzl Elementary School,Yes,6,3.2,No,-87.71825927,41.86225473
+60609,609993,Agustin Lara Elementary Academy,No,0,3.6,No,-87.6721446,41.8097569
+60625,609994,William G Hibbard Elementary School,No,0,1.5,No,-87.71036214,41.97036267
+60646,609995,Rufus M Hitch Elementary School,No,0,1.8,Yes,-87.77908614,41.98367756
+60608,609996,Charles N Holden Elementary School,Yes,1,3.6,No,-87.65380002,41.83805473
+60621,609997,Oliver Wendell Holmes Elementary School,Yes,9,2.5,No,-87.64977785,41.79376044
+60644,610000,Julia Ward Howe Elementary School of Excellence,Yes,9,2.7,No,-87.75943557,41.89362521
+60617,610002,Thomas Hoyne Elementary School,No,0,,Pending,-87.5681905,41.73330693
+60620,610003,Paul Cuffe Math-Science Technology Academy ES,No,0,2,Yes,-87.65366994,41.74244489
+60628,610004,Countee Cullen Elementary School,Yes,5,1.8,No,-87.61128176,41.70036107
+60623,610005,Charles Evans Hughes Elementary School,Yes,6,,No,-87.73177486,41.86049033
+60629,610006,Edward N Hurley Elementary School,No,0,1.6,No,-87.71950804,41.7667583
+60607,610009,Galileo Math & Science Scholastic Academy ES,No,0,2.6,Pending,-87.65340205,41.87124634
+60657,610010,Friedrich Ludwig Jahn Elementary School,No,0,4.9,Yes,-87.67577282,41.93924404
+60659,610011,Minnie Mars Jamieson Elementary School,No,0,1.2,No,-87.70056525,41.98461372
+60610,610012,Edward Jenner Elementary Academy of the Arts,Yes,6,3.5,No,-87.64101894,41.90205805
+60608,610013,Pilsen Elementary Community Academy,Yes,1,1.4,Pending,-87.6622254,41.85887606
+60608,610015,Joseph Jungman Elementary School,No,0,4,No,-87.65233933,41.85810053
+60620,610016,Kate S Kellogg Elementary School,No,0,1.5,No,-87.67719555,41.72525315
+60623,610017,Maria Saucedo Elementary Scholastic Academy,No,0,4.5,No,-87.69728712,41.84796859
+60615,610018,Miriam G Canter Middle School,Yes,2,2.9,Yes,-87.59039494,41.80434474
+60621,610019,Joshua D Kershaw Elementary School,No,0,2.1,No,-87.64092929,41.77647883
+60644,610020,Francis Scott Key Elementary School,No,0,1.6,No,-87.76633519,41.88983589
+60651,610021,Pablo Casals Elementary School,Yes,6,1.8,No,-87.71427105,41.90447488
+60623,610056,Roswell B Mason Elementary School,Yes,3,1.9,No,-87.73049117,41.85685194
+60626,610022,Joyce Kilmer Elementary School,Yes,1,2.1,No,-87.66826026,42.00367622
+60612,610023,William H King Elementary School,Yes,6,2.4,No,-87.68875632,41.87186209
+60623,610024,Lazaro Cardenas Elementary School,No,0,,Pending,-87.71598119,41.8485071
+60638,610026,John H Kinzie Elementary School,No,0,1.3,No,-87.7791043,41.78970398
+60620,610027,Rudyard Kipling Elementary School,No,0,1.8,No,-87.63948475,41.72365391
+60628,610028,Alfred David Kohn Elementary School,Yes,6,3.4,Pending,-87.62360199,41.70485072
+60642,610029,Rodolfo Lozano Bilingual & International Ctr ES,Yes,1,,Pending,-87.66505758,41.90891372
+60615,610030,Charles Kozminski Elementary Community Academy,Yes,4,2.6,No,-87.60246287,41.7980295
+60622,610031,Jean D Lafayette Elementary School,Yes,5,3.3,No,-87.69494543,41.89940402
+60643,610032,Wendell E Green Elementary School,No,0,2.3,No,-87.65248591,41.71931953
+60614,610033,LaSalle Elementary Language Academy,No,0,1.2,Yes,-87.63760107,41.9138823
+60623,610034,Lawndale Elementary Community Academy,Yes,6,3.1,No,-87.71300615,41.86298683
+60651,610036,Leslie Lewis Elementary School,Yes,9,2.8,No,-87.75451319,41.90682528
+60609,610037,Arthur A Libby Elementary School,Yes,6,4.4,Yes,-87.65996858,41.79764784
+60614,610038,Abraham Lincoln Elementary School,No,0,3.5,Yes,-87.64452163,41.92449696
+60618,610039,Carl von Linne Elementary School,No,0,4.2,No,-87.70259825,41.94001885
+60639,610040,Henry D Lloyd Elementary School,Yes,3,,No,-87.74847861,41.91883022
+60634,610041,Josephine C Locke Elementary School,No,0,3.4,No,-87.79564085,41.93176301
+60639,610043,Joseph Lovett Elementary School,No,0,1.8,No,-87.78393402,41.91269042
+60651,610044,James Russell Lowell Elementary School,No,0,3.3,No,-87.71023279,41.90654684
+60617,610045,Robert H Lawrence Elementary School,Yes,6,2.8,No,-87.56716721,41.71440176
+60634,610046,Mary Lyon Elementary School,No,0,1.9,No,-87.77713699,41.93417898
+60619,610047,James Madison Elementary School,Yes,5,2.8,No,-87.59067582,41.75955224
+60610,610048,George Manierre Elementary School,Yes,5,2.3,No,-87.63986347,41.90825367
+60639,610051,Northwest Middle School,Yes,4,1.7,No,-87.75820003,41.92053845
+60617,610052,Horace Mann Elementary School,Yes,6,3.4,No,-87.57485274,41.74830012
+60629,610053,Marquette Elementary School,Yes,6,2,No,-87.6970673,41.77390682
+60617,610054,John L Marsh Elementary School,No,0,1.5,No,-87.55251993,41.71657908
+60624,610055,Michael Faraday Elementary School,No,0,2.6,No,-87.70808199,41.87974117
+60629,610057,Fairfield Elementary Academy,Yes,6,2.9,No,-87.69207758,41.78086789
+60644,610058,Horatio May Elementary Community Academy,Yes,6,3.1,No,-87.74931216,41.87358321
+60614,610059,Oscar F Mayer Elementary School,No,0,1.8,No,-87.65732331,41.92317657
+60607,610060,Andrew Jackson Elementary Language Academy,No,0,,Yes,-87.66097599,41.87432724
+60653,610061,William J & Charles H Mayo Elementary School,Yes,1,2.1,No,-87.61978251,41.82732778
+60609,610062,George B McClellan Elementary School,Yes,4,1.9,No,-87.64106579,41.82998962
+60623,610063,Cyrus H McCormick Elementary School,No,0,1.5,Yes,-87.706336,41.84224508
+60637,610065,Emmett Louis Till Math and Science Academy,Yes,6,2.3,No,-87.60932095,41.77544062
+60619,610066,James E McDade Elementary Classical School,No,0,,No,-87.61917677,41.73451387
+60629,610067,Francis M McKay Elementary School,Yes,6,5,No,-87.69174944,41.76810662
+60639,610068,Hanson Park Elementary School,No,0,3.2,No,-87.76152094,41.92392771
+60640,610070,James B McPherson Elementary School,No,0,,No,-87.67632505,41.96784758
+60620,610072,Garrett A Morgan Elementary School,Yes,7,2.2,No,-87.64007166,41.74124549
+60612,610073,Ellen Mitchell Elementary School,No,0,2.6,No,-87.68317867,41.89205482
+60647,610074,James Monroe Elementary School,Yes,4,2.6,No,-87.71921246,41.92996135
+60647,610076,Bernhard Moos Elementary School,Yes,6,2.2,No,-87.69690545,41.9125311
+60629,610077,Donald Morrill Math & Science Elementary School,Yes,6,2,No,-87.68851192,41.78428993
+60613,610078,Inter-American Elementary Magnet School,No,0,2.8,Pending,-87.65153745,41.94897646
+60616,610081,Mark Sheridan Elementary Math & Science Academy,No,0,,Pending,-87.64131399,41.84437293
+60655,610082,Mount Greenwood Elementary School,No,0,2.9,No,-87.70577383,41.69574845
+60655,610084,Annie Keller Elementary Gifted Magnet School,No,0,1.5,No,-87.6972638,41.69719792
+60643,610086,Mount Vernon Elementary School,No,0,2.2,No,-87.64768959,41.70196704
+60647,610088,Wolfgang A Mozart Elementary School,No,0,2.8,No,-87.72192541,41.92092734
+60618,610089,John B Murphy Elementary School,No,0,1.5,No,-87.71682949,41.95005034
+60615,610090,Phillip Murray Elementary Language Academy,No,0,1.9,No,-87.59330352,41.79852501
+60628,610091,Ronald Brown Elementary Community Academy,No,0,2.3,No,-87.63892027,41.66484509
+60644,610092,Henry H Nash Elementary School,Yes,11,2.5,No,-87.74720007,41.89214726
+60619,610093,Jane A Neil Elementary School,Yes,5,2.2,No,-87.62089767,41.7384386
+60657,610094,Louis Nettelhorst Elementary School,No,0,2.5,No,-87.64459776,41.94162999
+60614,610095,Walter L Newberry Math & Science Academy ES,No,0,1.3,Pending,-87.64601501,41.91397435
+60632,610096,Florence Nightingale Elementary School,No,0,2.2,Yes,-87.68917624,41.79774019
+60639,610097,William P Nixon Elementary School,No,0,1.6,No,-87.73138368,41.91959342
+60651,610098,Alfred Nobel Elementary School,No,0,2.7,No,-87.72993324,41.90612797
+60631,610099,Norwood Park Elementary School,No,0,,No,-87.80299207,41.98818136
+60651,610100,West Park Elementary Academy,Yes,4,2.6,No,-87.73240646,41.90691024
+60610,610101,William B Ogden Elementary School,No,0,1.1,No,-87.62928901,41.90003152
+60620,610102,Richard J Oglesby Elementary School,Yes,9,2.7,No,-87.64550666,41.75469091
+60649,610103,Isabelle C O'Keeffe Elementary School,Yes,6,1.7,No,-87.57284299,41.76861557
+60631,610104,William J Onahan Elementary School,No,0,1.7,No,-87.79308113,41.99381787
+60656,610105,Oriole Park Elementary School,No,0,3.4,No,-87.81209057,41.97851501
+60651,610106,Brian Piccolo Elementary Specialty School,Yes,6,2.8,No,-87.73129753,41.9001461
+60642,610107,James Otis Elementary School,No,0,3,No,-87.66538928,41.89179703
+60636,610108,Luke O'Toole Elementary School,Yes,8,3.7,No,-87.67513395,41.77418952
+60652,610109,William Bishop Owen Scholastic Academy ES,No,0,,No,-87.70571301,41.74287191
+60653,610110,Ida B Wells Preparatory Elementary Academy,Yes,2,2.1,No,-87.61978794,41.82390751
+60630,610111,John Palmer Elementary School,No,0,1.5,No,-87.73917547,41.97326374
+60621,610112,Francis W Parker Elementary Community Academy,Yes,1,2.2,Pending,-87.6353099,41.77079606
+60609,610114,Francis Parkman Elementary School,Yes,5,2.6,No,-87.63297392,41.80169919
+60637,610115,Park Manor Elementary School,Yes,6,3.1,No,-87.61150917,41.76648584
+60649,610116,Parkside Elementary Community Academy,Yes,6,1.9,No,-87.58299131,41.76856599
+60629,610117,Louis Pasteur Elementary School,No,0,3.9,Yes,-87.73262962,41.78688968
+60622,610119,Elizabeth Peabody Elementary School,Yes,1,1.1,Yes,-87.66419014,41.89986912
+60629,610120,Ferdinand Peck Elementary School,No,0,3.8,No,-87.71922211,41.78792632
+60612,610121,Washington Irving Elementary School,No,0,1.9,No,-87.68357939,41.87161238
+60660,610122,Helen Peirce International Studies ES,No,0,2.3,Pending,-87.66586537,41.98342819
+60623,610123,William Penn Elementary School,Yes,6,2.3,No,-87.72133609,41.85836995
+60619,610124,Harold Washington Elementary School,No,0,4,No,-87.59629327,41.72853492
+60608,610125,Irma C Ruiz Elementary School,No,0,2.8,Yes,-87.68078114,41.84809742
+60616,610126,John J Pershing Elementary Humanities Magnet,No,0,1.8,No,-87.61334083,41.83803465
+60625,610127,Mary Gage Peterson Elementary School,No,0,1.6,Yes,-87.71261988,41.98158041
+60643,610128,Marcus Moziah Garvey Elementary School,Yes,1,2.4,No,-87.64754034,41.7065956
+60608,610129,Josiah Pickard Elementary School,No,0,1.7,No,-87.6833397,41.85287295
+60619,610130,John T Pirie Fine Arts & Academic Center ES,No,0,2.3,No,-87.60792289,41.74036711
+60608,610131,Ambrose Plamondon Elementary School,No,0,,No,-87.69250468,41.86028668
+60628,610132,Edgar Allan Poe Elementary Classical School,No,0,,Yes,-87.60645552,41.70261965
+60624,610133,Laura S Ward Elementary School,No,0,4.5,No,-87.71752405,41.88845002
+60623,610134,Nathaniel Pope Elementary School,Yes,6,2,No,-87.70299144,41.85570712
+60641,610135,Portage Park Elementary School,No,0,2.4,No,-87.76100593,41.9570151
+60614,610136,William H Prescott Elementary School,No,0,1.6,Pending,-87.66955245,41.92886824
+60630,610137,Ernst Prussing Elementary School,No,0,2.3,No,-87.77245066,41.96561054
+60647,610138,Pulaski International School of Chicago,No,0,2.1,Yes,-87.68380061,41.91851374
+60628,610139,George M Pullman Elementary School,No,0,2.3,No,-87.60939383,41.68879566
+60613,610141,Ravenswood Elementary School,No,0,2.9,No,-87.67095905,41.96074129
+60637,610142,William H Ray Elementary School,No,0,1.7,No,-87.59471544,41.79234967
+60615,610143,William C Reavis Math & Science Specialty ES,Yes,5,2.9,Pending,-87.6049443,41.80420101
+60619,610312,Mary E McDowell Elementary School,No,0,,Pending,-87.58960096,41.7331047
+60618,610144,Frank W Reilly Elementary School,No,0,1.7,Pending,-87.71953058,41.94112155
+60634,610145,Peter A Reinberg Elementary School,No,0,1.5,No,-87.76894541,41.94300407
+60619,610146,Paul Revere Elementary School,Yes,6,2.9,No,-87.60017165,41.76422335
+60645,610147,Philip Rogers Elementary School,No,0,2.1,No,-87.69714858,42.01526618
+60609,610148,Cesar E Chavez Multicultural Academic Center ES,No,0,2.7,No,-87.66600055,41.80715514
+60637,610150,Betsy Ross Elementary School,Yes,17,2.8,No,-87.62365383,41.78383382
+60619,610152,Martha Ruggles Elementary School,No,0,1.2,No,-87.61802983,41.75194729
+60620,610153,William H Ryder Math & Science Specialty ES,Yes,5,2.7,No,-87.63887904,41.73536767
+60624,610154,Martin A Ryerson Elementary School,No,0,1.9,No,-87.71883334,41.89321142
+60637,610169,Austin O Sexton Elementary School,Yes,6,3.7,No,-87.60866927,41.78517099
+60646,610155,Sauganash Elementary School,No,0,1,No,-87.74599137,41.99117332
+60644,610156,Louis Armstrong Math & Science Elementary School,Yes,6,1.4,No,-87.75920297,41.87378243
+60632,610157,Sidney Sawyer Elementary School,No,0,2.2,No,-87.70504311,41.79752155
+60707,610158,Harriet E Sayre Elementary Language Academy,No,0,2.1,No,-87.79875667,41.9141236
+60641,610159,Jonathan Y Scammon Elementary School,No,0,3.4,No,-87.73222901,41.94164944
+60628,610160,Songhai Elementary Learning Institute,Yes,5,2.5,Yes,-87.62505762,41.68086831
+60636,610161,Arna Wendell Bontemps Elementary School,Yes,9,3.3,No,-87.65634499,41.78857298
+60639,610165,Franz Peter Schubert Elementary School,Yes,3,1.4,No,-87.76115305,41.93038593
+60609,610167,William H Seward Communication Arts Academy ES,No,0,5,No,-87.66880778,41.81029632
+60610,610534,Skinner North,No,0,,Yes,-87.64483441,41.9051367
+60632,610170,Columbia Explorers Elementary Academy,No,0,2.4,No,-87.70423481,41.81105689
+60617,610171,Arnold Mireles Elementary Academy,Yes,6,2.4,No,-87.55282373,41.73168217
+60609,610172,William T Sherman Elementary School,Yes,10,1.7,Yes,-87.65025483,41.79978772
+60621,610173,Jesse Sherwood Elementary School,No,0,6.6,No,-87.6322812,41.7907728
+60632,610174,James Shields Elementary School,No,0,4.7,Pending,-87.68968453,41.81593528
+60615,610175,Beulah Shoesmith Elementary School,No,0,,No,-87.59392226,41.80432122
+60643,610176,John D Shoop Math-Science Technical Academy ES,Yes,2,2.1,No,-87.65870614,41.69093337
+60607,610177,Mark Skinner Elementary School,No,0,,No,-87.65937102,41.87913069
+60628,610178,Theophilus Schmid Elementary School,Yes,1,2,Pending,-87.59689622,41.71701772
+60634,610179,Washington D Smyser Elementary School,No,0,2.3,Pending,-87.78201198,41.95889037
+60608,610180,John M Smyth Elementary School,Yes,6,2.2,No,-87.65347031,41.86532347
+60659,610182,Hannah G Solomon Elementary School,No,0,,Pending,-87.72407991,41.99397007
+60644,610183,Spencer Technology Academy,No,0,3.2,No,-87.75048169,41.88488257
+60623,610184,John Spry Elementary Community School,No,0,1.9,No,-87.69912725,41.84815451
+60652,610185,Adlai E Stevenson Elementary School,No,0,3.7,Yes,-87.73170248,41.74711093
+60640,610187,Graeme Stewart Elementary School,No,0,1.6,No,-87.65605252,41.96434608
+60628,610188,Dunne Technology Academy,No,0,1.8,No,-87.63993763,41.69651565
+60640,610189,Joseph Stockton Elementary School,Yes,1,1.7,No,-87.66388983,41.9623189
+60659,610191,Stone Elementary Scholastic Academy,No,0,2.6,Yes,-87.68475636,41.99536777
+60647,610192,Harriet Beecher Stowe Elementary School,Yes,6,2.5,No,-87.7132855,41.91196584
+60617,610193,William K New Sullivan Elementary School,Yes,6,2.4,No,-87.542891,41.7438302
+60624,610194,Charles Sumner  Math & Science Community Acad ES,No,0,2.5,No,-87.73355414,41.87084922
+60643,610195,Elizabeth H Sutherland Elementary School,No,0,2,No,-87.67678398,41.71142687
+60660,610196,George B Swift Elementary Specialty School,No,0,2.5,No,-87.65833342,41.98915734
+60622,610197,Mancel Talcott Elementary School,No,0,2.3,No,-87.67370499,41.89243235
+60617,610198,Douglas Taylor Elementary School,Yes,1,1.7,Yes,-87.5330074,41.71544589
+60643,610199,Johnnie Colemon Elementary Academy,No,0,1.7,Yes,-87.65812011,41.67747786
+60617,610200,James N Thorp Elementary School,Yes,3,3.3,No,-87.54451462,41.73331035
+60634,610201,Ole A Thorp Elementary Scholastic Academy,No,0,2,No,-87.77764028,41.94859865
+60624,610202,George W Tilton Elementary School,Yes,9,2.5,No,-87.73052949,41.88409703
+60629,610203,Enrico Tonti Elementary School,No,0,2.9,Yes,-87.70814201,41.78750499
+60640,610205,Lyman Trumbull Elementary School,Yes,2,2.5,No,-87.6697616,41.97621644
+60638,610206,Mark Twain Elementary School,No,0,5.5,No,-87.75896524,41.79905206
+60643,610207,John H Vanderpoel Elementary Magnet School,No,0,,No,-87.66558526,41.72078152
+60628,610208,Mildred I Lavizzo Elementary School,Yes,9,2.2,Pending,-87.62713349,41.69628998
+60625,610209,Alessandro Volta Elementary School,No,0,3.1,No,-87.72464139,41.97160605
+60622,610210,Alexander von Humboldt Elementary School,Yes,6,2.5,No,-87.69300325,41.90672216
+60625,610212,Albany Park Multicultural Academy,No,0,3.9,No,-87.70962725,41.9711433
+60608,610216,John A Walsh Elementary School,No,0,3.4,Yes,-87.64804964,41.85484214
+60616,610217,James Ward Elementary School,No,0,,Pending,-87.63531815,41.84395162
+60617,610218,Joseph Warren Elementary School,No,0,2.6,No,-87.5753162,41.72677474
+60617,610219,George Washington Elementary School,No,0,2.3,Yes,-87.53600985,41.68810403
+60625,610220,Thomas J Waters Elementary School,No,0,,No,-87.69136881,41.96434835
+60624,610221,Daniel Webster Elementary School,No,0,3.2,No,-87.72748159,41.86988904
+60621,610223,Daniel S Wentworth Elementary School,Yes,6,2.5,No,-87.64825544,41.76728177
+60628,610224,West Pullman Elementary School,Yes,6,6.5,No,-87.63570683,41.67666008
+60643,610225,John Whistler Elementary School,Yes,6,2.1,No,-87.65534733,41.68391137
+60629,610226,Socorro Sandoval Elementary School,No,0,4.3,No,-87.71102417,41.79235177
+60623,610227,Eli Whitney Elementary School,No,0,1.9,Yes,-87.7255084,41.84006197
+60608,610228,John Greenleaf Whittier Elementary School,Yes,2,1.4,No,-87.67342126,41.85050786
+60622,610229,A.N. Pritzker School,No,0,2.6,No,-87.67779555,41.907025
+60646,610230,Wildwood Elementary School,No,0,,Yes,-87.77837089,42.00747007
+60616,610231,National Teachers Elementary Academy,No,0,2.1,No,-87.62928114,41.85277255
+60616,610232,Williams Multiplex Elementary School,Yes,5,1.2,Pending,-87.62859008,41.84403809
+60621,610233,Elihu Yale Elementary School,Yes,10,2.6,No,-87.63209571,41.76644232
+60647,610234,Richard Yates Elementary School,Yes,4,2.1,No,-87.70024324,41.91502858
+60651,610235,Ella Flagg Young Elementary School,No,0,3.5,No,-87.76717934,41.90678358
+60609,610237,Ludwig Van Beethoven Elementary School,Yes,2,3.1,No,-87.62711401,41.80910779
+60621,610238,Carrie Jacobs Bond Elementary School,Yes,6,3.8,Pending,-87.65305514,41.76538639
+60609,610239,Richard J Daley Elementary Academy,No,0,1.7,Yes,-87.67224309,41.80234381
+60623,610240,Matthew A Henson Elementary School,Yes,6,3.4,Yes,-87.72158636,41.86356038
+60624,610241,Guglielmo Marconi Elementary Community Academy,Yes,6,3.5,No,-87.73936153,41.88431659
+60613,610242,Joseph Brennemann Elementary School,No,0,3.9,No,-87.64971223,41.95997841
+60612,610243,John Calhoun North Elementary School,No,0,2.4,No,-87.69755292,41.87822115
+60609,610246,Edward Beasley Elementary Magnet Academic Center,No,0,2.9,No,-87.62565509,41.79847228
+60634,610248,Chicago Academy Elementary School,No,0,2,No,-87.77650575,41.94215439
+60632,610249,Talman Elementary School,No,0,1.8,No,-87.6902983,41.79407382
+60610,610250,Rueben Salazar Elementary Bilingual Center,No,0,2.1,No,-87.63373912,41.90144445
+60612,610251,Willa Cather Elementary School,No,0,1.7,No,-87.69922315,41.882977
+60612,610252,Robert Nathaniel Dett Elementary School,No,0,4.1,No,-87.68472465,41.88401623
+60623,610254,Dvorak Technology Academy,Yes,6,3.8,No,-87.71574626,41.85885599
+60653,610256,Jackie Robinson Elementary School,Yes,4,2,Yes,-87.59903174,41.81735839
+60612,610257,Morton School of Excellence,Yes,9,1.8,Yes,-87.7049885,41.88928666
+60637,610263,John Foster Dulles Elementary School,Yes,6,3.2,No,-87.61717494,41.779797
+60621,610265,Benjamin Banneker Elementary School,Yes,6,2.2,No,-87.63729464,41.77275433
+60637,610266,Dumas Technology Academy,Yes,6,2.5,No,-87.60105531,41.77350389
+60619,610268,Arthur R Ashe Elementary School,Yes,6,3.3,No,-87.60113659,41.74015307
+60640,610269,John T McCutcheon Elementary School,No,0,2,No,-87.65472193,41.97095968
+60612,610271,Jensen Elementary Scholastic Academy,No,0,2,No,-87.70224149,41.87384239
+60623,610273,Ignance Paderewski Elementary Learning Academy,Yes,6,3.1,No,-87.71726618,41.85094816
+60623,610274,James Weldon Johnson Elementary School,Yes,9,,Yes,-87.7031756,41.86183983
+60653,610276,Irvin C Mollison Elementary School,Yes,5,2.5,Pending,-87.61658079,41.81434006
+60615,610277,Anthony Overton Elementary School,Yes,6,3.9,No,-87.62012252,41.80557578
+60619,610279,Henry O Tanner Elementary School,Yes,6,3.1,Yes,-87.60682834,41.76069854
+60649,610281,Adam Clayton Powell Paideia Community Academy ES,No,0,1.6,No,-87.55673627,41.76032435
+60651,610282,Ronald E McNair Elementary School,Yes,13,2.1,No,-87.74674645,41.8978464
+60626,610284,New Field Elementary School,No,0,1.6,Pending,-87.67315753,42.00767533
+60636,610285,Granville T Woods Math & Science Academy ES,Yes,1,1.9,Pending,-87.65468845,41.7811649
+60652,610287,Ashburn Community Elementary School,No,0,2.9,Yes,-87.70964592,41.74233179
+60621,610290,Benjamin E Mays Elementary Academy,Yes,1,,No,-87.64612737,41.77256081
+60629,610291,Richard Henry Lee Elementary School,No,0,1.5,No,-87.72892174,41.77532831
+60624,610293,Genevieve Melody Elementary School,Yes,6,2.9,No,-87.73051772,41.87474954
+60643,610295,Thomas J Higgins Elementary Community Academy,No,0,,Yes,-87.64702985,41.68100687
+60620,610298,Lenart Elementary Regional Gifted Center,No,0,,No,-87.62800231,41.74715024
+60621,610299,William A Hinton Elementary School,Yes,5,2.7,No,-87.6413274,41.76536255
+60620,610300,Oliver S Westcott Elementary School,No,0,2.3,No,-87.63478949,41.74884018
+60644,610305,George Leland Elementary School,Yes,3,,No,-87.75571809,41.87382439
+60622,610313,Jose De Diego Elementary Community Academy,Yes,3,2.4,Yes,-87.68572005,41.90531549
+60643,610315,Edward White Elementary Career Academy,Yes,5,2.1,Yes,-87.65055321,41.67233661
+60617,610316,Amelia Earhart Options for Knowledge ES,No,0,2.1,No,-87.58217727,41.72613498
+60632,610317,Brighton Park Elementary School,No,0,3,No,-87.69204069,41.82391375
+60609,610319,Evergreen Academy Middle School,No,0,3.4,No,-87.66778007,41.829365
+60622,610320,Ana Roque de Duprey Elementary School,No,0,2.1,Yes,-87.69300325,41.90672216
+60618,610321,Thurgood Marshall Middle School,Yes,4,2.2,No,-87.72035833,41.9520236
+60618,610325,Logandale Middle School,No,0,1.8,No,-87.70804359,41.9339976
+60608,610329,Orozco Fine Arts & Sciences Elementary School,No,0,,No,-87.67519253,41.85778248
+60616,610336,Williams Preparatory Academy Middle School,Yes,5,2,No,-87.62859008,41.84403809
+60621,610339,Amos Alonzo Stagg Elementary School,Yes,6,5,No,-87.6492534,41.75892669
+60622,610342,Albert R Sabin Elementary Magnet School,No,0,2,No,-87.68304259,41.90684338
+60653,610345,Carter G Woodson South Elementary School,Yes,5,1.8,No,-87.60845505,41.81447955
+60636,610347,Claremont Academy Elementary School,Yes,6,1.9,Pending,-87.68108634,41.77753754
+60624,610348,Nathan R Goldblatt Elementary School,Yes,6,1.5,No,-87.73273021,41.87778081
+60619,610350,Robert A Black Magnet Elementary School,Yes,1,,Yes,-87.57660534,41.72965645
+60652,610352,Durkin Park Elementary School,No,0,,No,-87.72991927,41.73886352
+60632,610353,Calmeca Academy of Fine Arts and Dual Language,Yes,1,3.3,Yes,-87.71160875,41.82440547
+60625,610354,North River Elementary School,No,0,2.5,No,-87.70718808,41.96173669
+60613,610355,Mary E Courtenay Elementary Language Arts Center,No,0,1,No,-87.6718933,41.9580169
+60628,610362,Medgar Evers Elementary School,No,0,1.4,Pending,-87.63926881,41.7156643
+60613,610363,Walt Disney Magnet Elementary School,No,0,1.4,No,-87.6461175,41.95680712
+60827,610364,William E B Dubois Elementary School,Yes,5,2.2,Pending,-87.61434156,41.65376037
+60612,610365,Mary McLeod Bethune Elementary School,Yes,12,3.8,No,-87.70216173,41.87019518
+60643,610366,Charles H Wacker Elementary School,No,0,1.8,No,-87.6480814,41.7162148
+60644,610367,Oscar DePriest Elementary School,No,0,3,Pending,-87.7662615,41.87799914
+60628,610368,Langston Hughes Elementary School,Yes,8,2.6,No,-87.62985093,41.70536999
+60620,610369,Mahalia Jackson Elementary School,Yes,10,1.7,No,-87.64675679,41.73409818
+60616,610395,Pershing West Middle School,No,0,2.6,No,-87.61837372,41.83649005
+60629,610396,Tarkington School of Excellence ES,No,0,1.8,No,-87.70642093,41.76443483
+60612,610405,Suder Montessori Magnet ES,No,0,2.8,No,-87.67764871,41.88324176
+60624,610503,Frazier Prospective IB Magnet ES,No,0,2.4,No,-87.72631742,41.86695871
+60641,610515,Disney II Magnet School,No,0,,Pending,-87.73060545,41.95048055
+60622,610520,LaSalle II Magnet Elementary School,No,0,1.2,No,-87.67373263,41.90290876
+60636,610521,Sir Miles Davis Magnet Elementary Academy,No,0,2.4,No,-87.66656657,41.77122181
+60631,610523,Edison Park Elementary School,No,0,1.3,Pending,-87.81380814,41.99422812
+60637,610530,South Shore Fine Arts Academy,Yes,1,1.1,No,-87.59039017,41.76772772
+60632,610532,Irene C. Hernandez Middle School for the Advancement of Science,Yes,1,2.2,No,-87.71139803,41.79350627
+60639,610533,Dr Jorge Prieto Math and Science,No,0,3.2,No,-87.7657438,41.92131717
+60634,610539,Marvin Camras Elementary School,No,0,2.2,Pending,-87.77016525,41.93496641
+60618,610541,Federico Garcia Lorca Elementary School,No,0,1.3,Pending,-87.72474354,41.94001885
+60645,610542,West Ridge Elementary School,No,0,1.5,No,-87.70595357,42.00299575
+60629,610544,Mariano Azuela Elementary School,No,0,3,No,-87.73992325,41.77105158
+60607,610548,STEM Magnet Academy,No,0,,No,-87.66496329,41.86860344
