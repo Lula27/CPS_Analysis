@@ -1,0 +1,286 @@
+Zipcode,Neighborhood,Area
+60611,Cathedral District,Downtown
+60605,Central Station,Downtown
+60605,Dearborn Park ,Downtown
+60610,Gold Coast,Downtown
+60611,Gold Coast,Downtown
+60601,Loop,Downtown
+60602,Loop,Downtown
+60603,Loop,Downtown
+60604,Loop,Downtown
+60605,Loop,Downtown
+60606,Loop,Downtown
+60607,Loop,Downtown
+60616,Loop,Downtown
+60611,Magnificent Mile,Downtown
+60605,Museum Campus,Downtown
+60610,Near North Side,Downtown
+60611,Near North Side,Downtown
+60642,Near North Side,Downtown
+60654,Near North Side,Downtown
+60606,Near North Side,Downtown
+60607,Near North Side,Downtown
+60608,Near North Side,Downtown
+60610,Near North Side,Downtown
+60612,Near North Side,Downtown
+60661,Near North Side,Downtown
+60601,New East Side,Downtown
+60622,Noble Square,Downtown
+60610,Old Town,Downtown
+60605,Printers Row,Downtown
+60607,Randolph Market,Downtown
+60661,Randolph Market,Downtown
+60611,River East,Downtown
+60611,River North,Downtown
+60654,River North,Downtown
+60622,River West ,Downtown
+60610,River West ,Downtown
+60605,South Loop,Downtown
+60607,South Loop,Downtown
+60608,South Loop,Downtown
+60616,South Loop,Downtown
+60611,Streeterville,Downtown
+60612,Tri-Taylor,Downtown
+60612,Ukrainian Village,Downtown
+60622,Ukrainian Village,Downtown
+60607,West Loop,Downtown
+60612,West Town,Downtown
+60622,West Town,Downtown
+60642,West Town,Downtown
+60647,West Town,Downtown
+60622,Wicker Park,Downtown
+60613,Alta Vista Terrace,North Side
+60657,Belmont Harbor,North Side
+60613,Boys Town,North Side
+60657,Boys Town,North Side
+60614,Bucktown,North Side
+60622,Bucktown,North Side
+60647,Bucktown,North Side
+60614,DePaul,North Side
+60613,Lakeview,North Side
+60657,Lakeview,North Side
+60657,Lakeview Central,North Side
+60610,Lincoln Park,North Side
+60614,Lincoln Park,North Side
+60625,Lincoln Square,North Side
+60613,North Center,North Side
+60618,North Center,North Side
+60613,North Halsted,North Side
+60657,North Halsted,North Side
+60614,Old Town Triangle,North Side
+60614,Park West,North Side
+60614,Ranch Triangle,North Side
+60618,Roscoe Village,North Side
+60657,Roscoe Village,North Side
+60614,Sheffield,North Side
+60640,Uptown,North Side
+60614,West DePaul,North Side
+60614,Wrightwood Neighbors,North Side
+60613,Wrigleyville,North Side
+60640,Andersonville,Far North Side
+60625,Budlong Woods,Far North Side
+60613,Buena Park,Far North Side
+60640,Buena Park,Far North Side
+60613,East Ravenswood,Far North Side
+60640,East Ravenswood,Far North Side
+60640,Edgewater,Far North Side
+60660,Edgewater,Far North Side
+60640,Edgewater Glen,Far North Side
+60660,Edgewater Glen,Far North Side
+60631,Edison Park,Far North Side
+60630,Middle Edgebrook,Far North Side
+60646,Middle Edgebrook,Far North Side
+60630,North Edgebrook,Far North Side
+60646,North Edgebrook,Far North Side
+60641,Old Irving Park,Far North Side
+60659,Peterson Park,Far North Side
+60613,Ravenswood,Far North Side
+60625,Ravenswood,Far North Side
+60640,Ravenswood,Far North Side
+60645,West Ridge,Far North Side
+60659,West Ridge,Far North Side
+60645,West Rogers Park,Far North Side
+60659,West Rogers Park,Far North Side
+60660,West Rogers Park,Far North Side
+60625,Albany Park,Northwest Side
+60618,Avondale ,Northwest Side
+60639,Belmont Gardens,Northwest Side
+60641,Belmont Gardens,Northwest Side
+60630,Forest Glen,Northwest Side
+60618,Irving Park,Northwest Side
+60630,Jefferson Park,Northwest Side
+60630,Mayfair,Northwest Side
+60625,North Park,Northwest Side
+60631,Norwood Park,Northwest Side
+60646,Old Edgebrook,Northwest Side
+60631,Old Norwood Park,Northwest Side
+60634,Portage Park,Northwest Side
+60641,Portage Park,Northwest Side
+60625,Ravenswood Manor,Northwest Side
+60630,Sauganash,Northwest Side
+60646,Sauganash,Northwest Side
+60656,Schorsch Forest View,Northwest Side
+60646,South Edgebrook,Northwest Side
+60656,Union Ridge,Northwest Side
+60646,South Edgebrook,Northwest Side
+60656,Union Ridge,Northwest Side
+60015,Bannockburn,North Shore
+60015,Deerfield,North Shore
+60201,Evanston,North Shore
+60202,Evanston,North Shore
+60203,Evanston,North Shore
+60204,Evanston,North Shore
+60208,Evanston,North Shore
+60209,Evanston,North Shore
+60022,Glencoe,North Shore
+60093,Glencoe,North Shore
+60016,Glenview,North Shore
+60025,Glenview,North Shore
+60026,Glenview,North Shore
+60029,Glenview,North Shore
+60062,Glenview,North Shore
+60082,Glenview,North Shore
+60029,Golf,North Shore
+60035,Highland Park,North Shore
+60040,Highland Park,North Shore
+60040,Highwood,North Shore
+60043,Kenilworth,North Shore
+60044,Lake Bluff,North Shore
+60035,Lake Forest,North Shore
+60045,Lake Forest,North Shore
+60026,Northbrook,North Shore
+60062,Northbrook,North Shore
+60065,Northbrook,North Shore
+60093,Northfield,North Shore
+60076,Skokie,North Shore
+60077,Skokie,North Shore
+60203,Skokie,North Shore
+60091,Wilmette,North Shore
+60043,Winnetka,North Shore
+60093,Winnetka,North Shore
+60102,Algonquin,Northwest Side
+60004,Arlington Heights,Northwest Side
+60010,Barrington,Northwest Side
+60010,Barrington Hills,Northwest Side
+60103,Bartlett,Northwest Side
+60108,Bloomingdale,Northwest Side
+60089,Buffalo Grove,Northwest Side
+60109,Burlington,Northwest Side
+60012,Crystal Lake,Northwest Side
+60014,Crystal Lake,Northwest Side
+60039,Crystal Lake,Northwest Side
+60010,Deer Park,Northwest Side
+60016,Des Plaines,Northwest Side
+60017,Des Plaines,Northwest Side
+60018,Des Plaines,Northwest Side
+60019,Des Plaines,Northwest Side
+60118,East Dundee,Northwest Side
+60120,Elgin,Northwest Side
+60121,Elgin,Northwest Side
+60122,Elgin,Northwest Side
+60123,Elgin,Northwest Side
+60124,Elgin,Northwest Side
+60140,Elgin,Northwest Side
+60170,Elgin,Northwest Side
+60175,Elgin,Northwest Side
+60177,Elgin,Northwest Side
+60007,Elk Grove Village,Northwest Side
+60009,Elk Grove Village,Northwest Side
+60143,Elk Grove Village,Northwest Side
+60030,Grayslake,Northwest Side
+60140,Hampshire,Northwest Side
+60010,Hoffman Estates,Northwest Side
+60067,Hoffman Estates,Northwest Side
+60107,Hoffman Estates,Northwest Side
+60120,Hoffman Estates,Northwest Side
+60169,Hoffman Estates,Northwest Side
+60179,Hoffman Estates,Northwest Side
+60192,Hoffman Estates,Northwest Side
+60194,Hoffman Estates,Northwest Side
+60195,Hoffman Estates,Northwest Side
+60142,Huntley,Northwest Side
+60010,Iverness,Northwest Side
+60067,Iverness,Northwest Side
+60143,Itasca,Northwest Side
+60156,Lake in the Hills,Northwest Side
+60047,Lake Zurich,Northwest Side
+60047,Long Grove,Northwest Side
+60049,Long Grove,Northwest Side
+60060,Long Grove,Northwest Side
+60053,Morton Grove,Northwest Side
+60005,Mount Prospect,Northwest Side
+60056,Mount Prospect,Northwest Side
+60058,Mount Prospect,Northwest Side
+60646,Niles,Northwest Side
+60714,Niles,Northwest Side
+60062,Northbrook,Northwest Side
+60065,Northbrook,Northwest Side
+60016,Park Ridge,Northwest Side
+60068,Park Ridge,Northwest Side
+60004,Prospect Heights,Northwest Side
+60062,Prospect Heights,Northwest Side
+60070,Prospect Heights,Northwest Side
+60090,Prospect Heights,Northwest Side
+60172,Roselle,Northwest Side
+60018,Rosemont,Northwest Side
+60007,Schaumburg,Northwest Side
+60159,Schaumburg,Northwest Side
+60168,Schaumburg,Northwest Side
+60169,Schaumburg,Northwest Side
+60172,Schaumburg,Northwest Side
+60173,Schaumburg,Northwest Side
+60193,Schaumburg,Northwest Side
+60194,Schaumburg,Northwest Side
+60195,Schaumburg,Northwest Side
+60196,Schaumburg,Northwest Side
+60118,Sleepy Hollow,Northwest Side
+60010,South Barrington,Northwest Side
+60103,Streamwood,Northwest Side
+60107,Streamwood,Northwest Side
+60118,West Dundee,Northwest Side
+60609,Back of the Yards,South Side
+60620,Beverly,South Side
+60643,Beverly,South Side
+60655,Beverly,South Side
+60608,Bridgeport,South Side
+60609,Bridgeport,South Side
+60616,Bridgeport,South Side
+60616,Bronzeville,South Side
+60653,Bronzeville,South Side
+60609,Canaryville,South Side
+60608,Chinatown,South Side
+60616,Chinatown,South Side
+60623,Douglas Park,South Side
+60621,Englewood,South Side
+60636,Englewood,South Side
+60805,Evergreen Park,South Side
+60615,Hyde Park,South Side
+60637,Hyde Park,South Side
+60637,Jackson Park,South Side
+60615,Kenwood,South Side
+60653,Kenwood,South Side
+60608,Lawndale,South Side
+60623,Lawndale,South Side
+60624,Lawndale,South Side
+60608,Little Village,South Side
+60623,Little Village,South Side
+60608,McKinley Park,South Side
+60609,McKinley Park,South Side
+60643,Morgan Park,South Side
+60655,Morgan Park,South Side
+60655,Mount Greenwood,South Side
+60653,Oakland,South Side
+60608,Pilsen,South Side
+60616,Pilsen,South Side
+60605,South Loop,South Side
+60607,South Loop,South Side
+60608,South Loop,South Side
+60616,South Loop,South Side
+60619,South Shore,South Side
+60637,South Shore,South Side
+60649,South Shore,South Side
+60609,Washington Park,South Side
+60615,Washington Park,South Side
+60621,Washington Park,South Side
+60637,Washington Park,South Side
+60637,Woodlawn,South Side

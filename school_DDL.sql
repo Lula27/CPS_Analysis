@@ -38,6 +38,11 @@ CREATE TABLE IF NOT EXISTS `chicago`.`elementry`(
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = latin1;
 
+# load data into table
+ #use import csv functionality in mysql to upload data
+LOAD DATA LOCAL INFILE 'C:/Users/loret/Desktop/UChicago MScA/DataEngineeringPlatforms/FinalProject/CPS_Analysis/EducationDatasets/clean_eduction/elementry.csv' INTO TABLE elementry FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
+
+
 
 CREATE TABLE IF NOT EXISTS `chicago`.`high`(
 	`Zipcode` MEDIUMINT(5) ZEROFILL NOT NULL,  
@@ -50,9 +55,15 @@ CREATE TABLE IF NOT EXISTS `chicago`.`high`(
 	`AvgDaysSuspension` DECIMAL(3,1), 
     `Latitude` DECIMAL(6,4), 
     `Longitude` DECIMAL(7,5), 
-	PRIMARY KEY(`Zipcode`, `SchoolID`)) 
+	PRIMARY KEY(`Zipcode`, `SchoolID`), 
+	CONSTRAINT `Zipcode`
+    FOREIGN KEY (`Zipcode`)
+    REFERENCES `chicago`.`elementry` (`Zipcode`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION) 
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = latin1;
+
 
 
 
